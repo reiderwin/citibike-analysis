@@ -1,9 +1,9 @@
-# tableau-challenge
+# CitiBike Analysis
 
 Data ETL:
 
-1. To best answer the questions in this challenge, I chose 9 months worth of data from pre-Covid times during 2019, assuming 2019 was a relatively stable historical reference.  I chose 9 months since it would represent all 4 seasons of the year (I exluded November, December, & January since I reasoned that the month of February alone would represent winter adequately).  I reasoned that spring, summer, and fall would provide adequate data to draw conclusions from.
-2. I extratcted the data from the New York CitBike website which was then combined in Jupyter Notebook and loaded into Tableau as a single data source.
+1. I extratcted the data from the New York CitBike website which was then combined in Jupyter Notebook and loaded into Tableau as a single data source.
+2. I chose 9 months worth of data from pre-Covid times during 2019, assuming 2019 was a relatively stable historical reference.  I chose 9 months since it would represent all 4 seasons of the year (I exluded November, December, & January since I reasoned that the month of February alone would represent winter adequately).  I reasoned that spring, summer, and fall would provide adequate data to draw conclusions from.
 
 Anaylsis:
 
